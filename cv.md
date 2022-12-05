@@ -26,7 +26,7 @@ University: Tbilis State University
 
 
 
-int main()
+ int main()
 
     
     cout << "Calculator Console Application" << endl << endl;
